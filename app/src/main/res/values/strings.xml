@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RunTrack</string>
+    <string name="title">Monitor deportivo RunTrack</string>
+    <string name="accel_label">Acelerómetro (m/s²)</string>
+    <string name="gyro_label">Giroscopio (rad/s)</string>
+    <string name="waiting">Esperando datos…</string>
+    <string name="btn_start">Iniciar lectura</string>
+    <string name="btn_stop">Detener lectura</string>
+    <string name="available">Disponible (%1$s)</string>
+    <string name="unavailable">No disponible en este dispositivo</string>
+    <string name="status_format">Acelerómetro: %1$s\nGiroscopio: %2$s</string>
+    <string name="stats_format">Recibidos: %1$d | Procesados: %2$d | Descartados: %3$d (%4$.0f%%)</string>
+</resources>
